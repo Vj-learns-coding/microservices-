@@ -1,0 +1,18 @@
+//pathvariable
+//requestparam
+//requestbody
+
+we got life cycle hooks with annotations which 
+can be used on the methods.
+
+ResponseEntity methods
+
+
+how to create an exception 
+is it a class or an interface.
+
+exception handler
+
+suppose a api is designed to return the responseentity string but error occurs and globalexception handler return sobject error response object
+
+
